@@ -1,7 +1,9 @@
 # TeVi
 ## TeVI (Global Terrorism Visualizer) - Web Technologies
 
-TeVi is a Web tool for flexible visualization of global terrorism data , based on its own REST / GraphQL API. The statistics and visualizations generated - minimum 3 modes + cartographic renderings, by regions, using profile Web services - can be exported in CSV, PNG and SVG formats. The system will also provide support for multi-criteria search for reported incidents, including additional details on weapons used - external data sources will be used. Additional resources about data visualization: https://profs.info.uaic.ro/~busaco/teach/courses/cliw/web-film.html#week4.
+TeVi is a Web tool for flexible visualization of global terrorism data , based on its own REST / GraphQL API. The statistics and visualizations generated - minimum 3 modes + cartographic renderings, by regions, using profile Web services - can be exported in CSV, PNG and SVG formats. The system will also provide support for multi-criteria search for reported incidents, including additional details on weapons used - external data sources will be used.
+
+Additional resources about data visualization: https://profs.info.uaic.ro/~busaco/teach/courses/cliw/web-film.html#week4.
 
 ### Team: 
 Elisa Giurgea, A2 - Project Manager, Designer, Frontend and Backend Developer
